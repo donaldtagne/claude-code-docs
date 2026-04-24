@@ -1420,6 +1420,4 @@ claude --help
 
 ---
 
-**Claude Code ist dein Partner für schnellere, bessere Coding!** 🚀
-
 Für aktuelle Updates: https://code.claude.com/docs
