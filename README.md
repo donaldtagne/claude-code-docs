@@ -640,18 +640,8 @@ Gib ihm einen Star! ⭐ Das hilft anderen, diese Ressource zu entdecken.
 
 ---
 
-## 📞 Kontakt
-
-- **GitHub Issues:** [Fragen stellen](../../issues)
-- **GitHub Discussions:** [Diskutieren](../../discussions)
-- **Email:** [deine@email.com]
-- **Discord:** [Discord Community](https://discord.gg/anthropic)
-
----
-
 <div align="center">
 
-### Made with ❤️ für Claude Code Community
 
 **[Komplette Dokumentation](./CLAUDE_CODE_CLI_KOMPLETT.md) • [Workbook](./CLAUDE_CODE_WORKBOOK.md) • [Quick Reference](./CLAUDE_CODE_QUICK_REFERENCE.md)**
 
